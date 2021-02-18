@@ -1,0 +1,25 @@
+.image{
+    cursor: pointer;
+}
+.img_div {
+    width: 120px;
+    height: 120px;
+    background-position: center;
+    background-size: 100%;
+    border: 1px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 20px auto 20px auto;
+    animation: personIcon 3s;
+  }
+  .img_div img {
+    background-color: black;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+  }
+  
+  .img_div:hover {
+    opacity: 0.5;
+    filter: blur(2px);
+  }

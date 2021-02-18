@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const serverUrl = \"http://localhost:3001\";","map":{"version":3,"sources":["/media/sidhik/CodeLove/Coding/SPS/Week 22/Test_client/constants/constants.js"],"names":["serverUrl"],"mappings":"AAAA,OAAO,MAAMA,SAAS,GAAG,uBAAlB","sourcesContent":["export const serverUrl = \"http://localhost:3001\"\n"]},"metadata":{},"sourceType":"module"}
